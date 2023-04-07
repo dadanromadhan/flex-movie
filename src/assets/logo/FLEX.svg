@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="629" font-variant="normal" style="fill-rule:nonzero" font-style="italic" font-weight="400">
+	<font-face 
+		font-family="Franklin Gothic Heavy">
+		<font-face-src>
+			<font-face-name name="Franklin Gothic Heavy Italic"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="L" horiz-adv-x="526" d="M498.999 160l-26.3335 -160 -455.667 0 111 667 202.335 0 -84.3329 -507 252.999 0z"/>
+   <glyph unicode="F" horiz-adv-x="534" d="M490.001 400l-24.3344 -145 -212.666 0 -42.5 -255 -193.501 0 111 667 469.001 0 -25.333 -150.001 -275 0 -19.4996 -116.999 212.833 0z"/>
+   <glyph unicode="E" horiz-adv-x="572" d="M534 153.001l-25.8342 -153.001 -491.167 0 111 667 479.001 0 -24.5002 -146.001 -285.166 0 -17.5004 -104.999 240.167 0 -24.3344 -145 -240 0 -19.6673 -118 298.001 0z"/>
+   <glyph unicode="X" horiz-adv-x="606" d="M660 667l-243.001 -321.167 164.001 -345.833 -211.667 0 -73.6665 169.5c-11.1658,25.333 -18.6667,41.0001 -22.4992,47.1671 -2.99964,-4.50135 -8.83312,-12.8352 -17.5004,-24.8337 -1.00051,-1.49982 -4.49946,-6.83398 -10.6664,-15.5013l-122.833 -176.333 -180.167 0 259.833 355.501 -148.833 311.499 211.667 0 60.999 -135.001c3.33314,-7.1656 9.99943,-23.8332 20.3343,-50.3326l134.999 185.333 179.001 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Franklin Gothic Heavy";font-variant:normal;font-style:italic;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#E62129}
+    .fnt0 {font-style:italic;font-weight:normal;font-size:5307.3px;font-family:'Franklin Gothic Heavy'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="3744" y="14064"  class="fil0 fnt0">FLEX</text>
+ </g>
+</svg>

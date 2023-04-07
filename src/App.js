@@ -1,25 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import Animate from "./components/Animate";
+import Footer from "./components/Footer";
+import Intro from "./components/Intro";
+import NavigationBar from "./components/NavigationBar"
+import SuperHero from "./components/SuperHero";
+import Trending from "./components/Trending";
+import "./style/landingpage.css"
+import { motion, useAnimation } from "framer-motion";
+import { useInView } from "react-intersection-observer";
 
-function App() {
+const App = () => {
+  const boxVariant = {
+    visible: { opacity: 1, scale: 2 },
+    hidden: { opacity: 0, scale: 0 },
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* Intro section */}
+      <div className="myBG">
+      <NavigationBar />
+      <Intro />
+      </div>
+       {/* End Of Intro section */}
+       <div className="trending">
+        <Trending />
+       </div>
+       <div className="superhero">
+        <SuperHero />
+       </div>
+       <div className="footer">
+        <Footer />
+       </div>
     </div>
   );
-}
+  }
+  // console.log({popularMovies: popularMovies})
+
+
 
 export default App;
